@@ -1,0 +1,21 @@
+{
+  "extends": "standard",
+  "rules": {
+    "generator-star-spacing": 0,
+    "yield-star-spacing": ["error", "after"],
+    "space-before-function-paren": [0, "never"],
+    "no-return-assign": 0,
+    "radix": 0,
+    "space-in-parens": 0,
+    "operator-linebreak": [2, "after"],
+    "no-new": 0
+  },
+  "env": {
+    "mocha": true,
+    "node": true
+  },
+  "globals": {},
+  "parserOptions": {
+    "ecmaVersion": 2017
+  }
+}
