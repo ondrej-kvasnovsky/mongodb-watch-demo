@@ -1,0 +1,11 @@
+{
+  "name": "mongodb-watch-demo",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "mongodb": "^3.0.5"
+  }
+}
