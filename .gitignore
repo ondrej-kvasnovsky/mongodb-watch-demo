@@ -68,3 +68,4 @@ rs2.conf
 mongo-replicaset/rs0
 mongo-replicaset/rs1
 mongo-replicaset/rs2
+restore_object.bson
