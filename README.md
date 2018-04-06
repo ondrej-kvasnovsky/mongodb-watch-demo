@@ -1,4 +1,4 @@
-# MongoDB Watch (Chance Stream) Demo
+# MongoDB Watch (Change Stream) Demo
 
 Connects to MongoDB collection and creates [change stream](https://docs.mongodb.com/manual/changeStreams/). 
 Is able to resume using last change stream ID object.  
